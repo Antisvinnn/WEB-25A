@@ -1,1 +1,1 @@
-This is test repo for group WEB-25A
+This is test repo for group WEB-25A of MyIT
