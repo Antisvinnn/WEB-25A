@@ -1,3 +1,3 @@
-console.log("No war!");
-console.log("Yes yes");
-console.log("Hello");
+for (let a = 0; a < 10; a++) {
+	a % 2 && console.log(a);
+}
